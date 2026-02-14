@@ -9,7 +9,7 @@
 **I will never expose my real name**
 I am an alone and individual developer. 
 # Info
-I'm also the person behind **CzaxStudio**(You may never know my name). However, I build powerful software including:
+I'm the person behind **CzaxStudio**(You may never know my name). However, I build powerful software including:
 
 -  Game Development (Unity / C#)
 -  Programming Language Design
