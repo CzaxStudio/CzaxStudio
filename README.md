@@ -5,9 +5,10 @@
 
 ---
 
-##  About Me
+##  Will I expose myself? 
 **I will never expose my real name**
-However, I am an alone and individual developer. 
+I am an alone and individual developer. 
+# Info
 I'm also the person behind **CzaxStudio**(You may never know my name). However, I build powerful software including:
 
 -  Game Development (Unity / C#)
