@@ -56,7 +56,7 @@ Building realistic horror experiences using:
 - C#
 - Python
 - C++
-- Zig (Learning / Experimenting)
+- Go
 
 ### Game Dev
 - Unity
