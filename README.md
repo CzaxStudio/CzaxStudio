@@ -12,7 +12,7 @@ I'm the person behind **CzaxStudio**(You may never know my name). However, I bui
 
 -  Game Development (Unity / C#)
 -  Programming Language Design
--  Cybersecurity Tools (Ethical + Educational)
+-  Hacking related Tools 
 -  Engine-Level Development
 -  Python Tooling & Automation
 
