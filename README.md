@@ -5,8 +5,7 @@
 
 ---
 
-##  Will I expose myself? 
-**I will never expose my real name**
+##  Will am I? 
 I am an alone and individual developer. 
 # Info
 I'm the person behind **CzaxStudio**(You may never know my name). However, I build powerful software including:
