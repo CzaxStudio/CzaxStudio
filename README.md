@@ -22,14 +22,14 @@ I love creating **high-performance, realistic, and meaningful software**.
 
 ##  Current Main Projects
 
-###  Panther Programming Language
-> A powerful security-focused programming language.
+###  ExoLua
+> A premium Lua IDE made for general lua use, Roblox Studio(Luau) and Love 2d Engine
 
 Features:
-- Security & networking focused syntax
-- Fast execution
-- Tool building support
-- Command-style execution system
+- Easy to use
+- Free
+- Premium
+- Small and fast
 
 ---
 
