@@ -1,7 +1,7 @@
 
 #  Welcome to CzaxStudio
 
-🚀 Developer | 🎮 Game Creator | Language Designer | 🛡 Security Tool Builder
+ Developer | Game Creator | Language Designer |  Security Tool Builder
 
 ---
 
