@@ -6,9 +6,9 @@
 ---
 
 ##  Who am I? 
-I am an alone and individual developer. 
+I am an individual developer. 
 # Info
-I'm the person behind **CzaxStudio**(You may never know my name). However, I build powerful software including:
+I'm the person behind **CzaxStudio**. However, I like building powerful software including:
 
 -  Game Development (Unity / C#)
 -  Programming Language Design
