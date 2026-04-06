@@ -1,3 +1,4 @@
+![Verified](https://shields.io)
 
 #  Welcome to CzaxStudio
 
