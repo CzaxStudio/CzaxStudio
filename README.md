@@ -87,7 +87,7 @@ Building realistic horror experiences using:
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=CzaxStudio&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CzaxStudio&show_icons=true&count_private=true&theme=radical)
 
 
 ![Streak](https://streak-stats.demolab.com?user=CzaxStudio&theme=radical)
