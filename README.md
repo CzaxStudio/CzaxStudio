@@ -1,5 +1,5 @@
-![Verified](https://img.shields.io/badge/status-verified-brightgreen)
 
+![Commits Verified](https://img.shields.io/badge/commits-signed-brightgreen)
 
 
 
