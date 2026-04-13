@@ -60,6 +60,10 @@ Building realistic horror experiences using:
 - C++
 - Go
 
+##  Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CzaxStudio&layout=compact)
+
 ### Game Dev
 - Unity
 - Engine Architecture Concepts
