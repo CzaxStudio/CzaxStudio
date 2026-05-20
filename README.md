@@ -1,5 +1,4 @@
 ![Security](https://img.shields.io/badge/security-focused-blue)
-![Commits](https://img.shields.io/badge/commits-verified-brightgreen)
 
 #  Welcome to CzaxStudio
 
