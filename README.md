@@ -23,13 +23,13 @@ I love creating **high-performance, realistic, and meaningful software**.
 
 ##  Current Main Projects
 
-###  ExoLua
-> A premium Lua IDE made for general lua use, Roblox Studio(Luau) and Love 2d Engine
+###  Spectator
+> A programming language made for cybersecurity.
 
 Features:
 - Easy to use
 - Free
-- Premium
+- Feature rich
 - Small and fast
 
 ---
