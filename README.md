@@ -56,7 +56,6 @@ Building realistic horror experiences using:
 ### Languages
 - C#
 - Python
-- C++
 - Go
 
 ##  Most Used Languages
@@ -78,8 +77,6 @@ Building realistic horror experiences using:
 ---
 
 ##  Learning Goals
-- Advanced C++ Engine Development
-- Low-Level Systems Programming
 - Advanced Security Tool Architecture
 - High Performance Software Design
 
