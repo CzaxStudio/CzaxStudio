@@ -60,7 +60,7 @@ Building realistic horror experiences using:
 
 ##  Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CzaxStudio&layout=donut)
 
 ### Game Dev
 - Unity
