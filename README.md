@@ -1,6 +1,6 @@
 ![Security](https://img.shields.io/badge/security-focused-blue)
 
-#  Welcome to CzaxStudio
+# CzaxStudio
 
  Developer | Game Creator | Language Designer |  Security Tool Builder
 
