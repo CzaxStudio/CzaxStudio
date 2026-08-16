@@ -89,6 +89,7 @@ Building realistic horror experiences using:
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=CzaxStudio&show_icons=true&theme=radical)
 
+## Streak
 
 ![Streak](https://streak-stats.demolab.com?user=CzaxStudio&theme=radical)
 
