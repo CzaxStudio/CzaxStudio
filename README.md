@@ -2,7 +2,7 @@
 
 # CzaxStudio
 
-Please follow if you like my projects!!
+**Please follow if you like my projects!!**
 
  Developer | Game Creator | Language Designer |  Security Tool Builder
 
