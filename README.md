@@ -2,7 +2,7 @@
 
 # CzaxStudio
 
-[https://www.wikidata.org/wiki/Q141237992] : Wiki
+Please follow if you like my projects!!
 
  Developer | Game Creator | Language Designer |  Security Tool Builder
 
